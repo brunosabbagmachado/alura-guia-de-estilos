@@ -28,3 +28,17 @@
 
     margin-right: 1.625rem;
 }
+
+.rodape__unidade {
+    margin-bottom: 2rem;
+}
+
+.rodape__unidade-titulo {
+    color: var(--preto);
+    font-size: var(--tamanho-destaque);
+    font-weight: var(--peso-destaque);
+
+    display: block;
+
+    margin-bottom: .5rem;
+}
